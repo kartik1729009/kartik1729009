@@ -129,7 +129,7 @@
 ##  Connect With Me
 
 *  Email: [kartik1729009@gmail.com](mailto:kartik1729009@gmail.com)
-*  LinkedIn: https://linkedin.com/in/kartik-sundriyal
+*  LinkedIn: www.linkedin.com/in/kartik-sundriyal-023153266
 *  GitHub: https://github.com/kartik1729009
 
 ---
